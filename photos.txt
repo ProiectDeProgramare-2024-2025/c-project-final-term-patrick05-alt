@@ -1,0 +1,5 @@
+Sunset.jpg,512
+Mountains.png,1024
+Beach.bmp,750
+Cityscape.jpg,640
+Forest.png,860

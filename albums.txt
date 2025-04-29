@@ -1,0 +1,3 @@
+Al,
+ok,Sunset.jpg
+oki,Beach.bmp;Forest.png
